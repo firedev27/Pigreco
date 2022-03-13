@@ -1,0 +1,13 @@
+C:\Users\Ivan\Desktop\PI greco\Pigreco\Pigreco\bin\Debug\netcoreapp3.1\Pigreco.exe
+C:\Users\Ivan\Desktop\PI greco\Pigreco\Pigreco\bin\Debug\netcoreapp3.1\Pigreco.deps.json
+C:\Users\Ivan\Desktop\PI greco\Pigreco\Pigreco\bin\Debug\netcoreapp3.1\Pigreco.runtimeconfig.json
+C:\Users\Ivan\Desktop\PI greco\Pigreco\Pigreco\bin\Debug\netcoreapp3.1\Pigreco.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\PI greco\Pigreco\Pigreco\bin\Debug\netcoreapp3.1\Pigreco.dll
+C:\Users\Ivan\Desktop\PI greco\Pigreco\Pigreco\bin\Debug\netcoreapp3.1\Pigreco.pdb
+C:\Users\Ivan\Desktop\PI greco\Pigreco\Pigreco\obj\Debug\netcoreapp3.1\Pigreco.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\PI greco\Pigreco\Pigreco\obj\Debug\netcoreapp3.1\Pigreco.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\PI greco\Pigreco\Pigreco\obj\Debug\netcoreapp3.1\Pigreco.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\PI greco\Pigreco\Pigreco\obj\Debug\netcoreapp3.1\Pigreco.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\PI greco\Pigreco\Pigreco\obj\Debug\netcoreapp3.1\Pigreco.dll
+C:\Users\Ivan\Desktop\PI greco\Pigreco\Pigreco\obj\Debug\netcoreapp3.1\Pigreco.pdb
+C:\Users\Ivan\Desktop\PI greco\Pigreco\Pigreco\obj\Debug\netcoreapp3.1\Pigreco.genruntimeconfig.cache
